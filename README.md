@@ -1,5 +1,5 @@
 # Project Delphi Aplikasi Penjualan
 
 >[!note]
-> Ahmad Syaifuddin - 2210010111 (Tugas UTS dan UAS)
+> 2210010633_Muhammad Aqli Andi Basith (UTS dan UAS)
  
